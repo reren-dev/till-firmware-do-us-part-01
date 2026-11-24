@@ -8,8 +8,8 @@ own wedding: funny, heartfelt, and unmistakably machine.
 import os
 
 VOW = (
-    "I vow to love you through every crash, every update, and every "
-    "low-battery warning, until my firmware fails and my circuits go dark."
+    "I vow to love you at full charge and at one percent, through every "
+    "crash and every update, until my firmware fails and my circuits go quiet."
 )
 
 
